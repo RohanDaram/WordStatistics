@@ -1,8 +1,2 @@
 # WordStatistics
-Hello!
-
-This is a program that contains a variety of options to choose from to run on a list of words.
-
-Java was used to write this program.
-
-
+Designed and implemented an interactive Java application that processes a user-provided sentence to perform various text operations. The application sorts words in alphabetical order, calculates the length of each word, and provides statistical information, such as identifying the shortest and longest words in the sentence. Additional features include determining words with even and odd letter counts and identifying the number of words with a prime number of letters.
